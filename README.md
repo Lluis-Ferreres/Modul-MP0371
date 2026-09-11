@@ -1,4 +1,4 @@
-# Modul-MP0371. Fonaments de maquinari. Curs 26-27
+# Modul-MP0371. Fonaments de maquinari.
 Repositori amb material per segon d'ASIX del mòdul fonaments de maquinari
 
 ### Continguts (orientatius)
