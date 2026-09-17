@@ -1,5 +1,5 @@
-# Modul-MP0483. Sistemes informàtics.
-**RA1. Avalua sistemes informàtics, identificant els seus components i característiques.**
+# Modul-MP0371. Fonaments de maquinari.
+**RA1. Configura equips microinformàtics, components i perifèrics, analitzant-ne les seves característiques i la relació amb el conjunt.**
 
 ### Simuproc
 **Funcionament d'una CPU**  
